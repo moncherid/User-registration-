@@ -34,7 +34,3 @@ To run FundFlow locally, follow these steps:
 Clone this repository.
 Install the required dependencies using npm install.
 Start the application with npm start.
-For more detailed documentation, please refer to the Wiki.
-
-Contributing
-We welcome contributions from the open-source community. Please read our Contributing Guidelines for more information on how to get started.
